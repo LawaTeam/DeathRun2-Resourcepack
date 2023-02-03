@@ -1,0 +1,10 @@
+{
+  "menu.options": "§a选项...(点击进行设置)",
+  "options.language": "§a语言(点我点我!)",
+  "options.languageWarning": "§7语言翻译不准确也就付看着吧(bushi)",
+  "options.forceUnicodeFont": "§a请把冒号后面变为§d关闭",
+  "options.video": "§a视频设置...(点我点我!)",
+  "options.gamma": "§a请把我调至明亮",
+  "options.gamma.max": "§b明亮",
+  "options.gamma.min": "§c昏暗"
+}

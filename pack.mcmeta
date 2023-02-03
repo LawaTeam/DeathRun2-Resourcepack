@@ -1,6 +1,6 @@
 {
   "pack": {
     "pack_format": 6,
-    "description": "New updated textures!"
+    "description": [{"text": "Death Run 2 地图专用材质包!\n","bold": true,"color":"aqua"},{"text": "加载后请打开选项进行地图设置","bold": true,"color":"gold"}]
   }
 }

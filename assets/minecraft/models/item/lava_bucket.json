@@ -1,0 +1,9 @@
+{  
+   "parent":"item/handheld",
+   "textures":{  
+      "layer0":"item/lava_bucket"
+   },
+   "overrides":[  
+      {"predicate":{"custom_model_data":3270001},"model":"item/lava_bucket1"}
+   ]
+}
