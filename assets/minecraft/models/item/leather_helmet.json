@@ -4,6 +4,7 @@
       "layer0":"item/leather_helmet"
    },
    "overrides":[  
-      {"predicate":{"custom_model_data":200},"model":"item/leather_helmet1"}
+      {"predicate":{"custom_model_data":200},"model":"item/leather_helmet1"},
+      {"predicate":{"custom_model_data":201},"model":"item/leather_helmet2"}
    ]
 }
