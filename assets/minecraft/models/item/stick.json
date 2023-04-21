@@ -1,28 +1,28 @@
 {
-	"parent": "minecraft:item/generated",
+	"parent": "minecraft:item/handheld",
 	"textures": {
     "layer0": "minecraft:item/qian1"
 	},
-	"display": {
-		"thirdperson_righthand": {
-			"rotation": [0, 0, 38],
-			"translation": [0, 3, 1.5],
-			"scale": [0.51, 0.49, 0.47]
-		},
-		"thirdperson_lefthand": {
-			"rotation": [0, 0, -49],
-			"translation": [0, 3, 2.25],
-			"scale": [0.48, 0.48, 0.5]
-		},
-		"firstperson_righthand": {
-			"rotation": [0, -51, 46],
-			"translation": [16.25, 2, -9.75]
-		},
-		"firstperson_lefthand": {
-			"translation": [80, 0, 0]
-		}
-	},
-	"overrides":[  
-		{"predicate":{"custom_model_data":1000},"model":"item/stick1"}
- ]
+   "overrides":[
+      {"predicate":{"custom_model_data":1000},"model":"item/stick1"},
+      {"predicate":{"custom_model_data":1001},"model":"item/stick2"},
+      {"predicate":{"custom_model_data":1002},"model":"item/stick2"},
+      {"predicate":{"custom_model_data":1003},"model":"item/stick2"},
+      {"predicate":{"custom_model_data":1004},"model":"item/stick2"},
+      {"predicate":{"custom_model_data":1005},"model":"item/stick2"},
+      {"predicate":{"custom_model_data":1006},"model":"item/stick2"},
+      {"predicate":{"custom_model_data":1007},"model":"item/stick2"},
+      {"predicate":{"custom_model_data":1008},"model":"item/stick2"},
+      {"predicate":{"custom_model_data":1009},"model":"item/stick2"},
+      {"predicate":{"custom_model_data":1010},"model":"item/stick2"},
+      {"predicate":{"custom_model_data":1011},"model":"item/stick2"},
+      {"predicate":{"custom_model_data":1012},"model":"item/stick2"},
+      {"predicate":{"custom_model_data":1013},"model":"item/stick2"},
+      {"predicate":{"custom_model_data":1014},"model":"item/stick2"},
+      {"predicate":{"custom_model_data":1015},"model":"item/stick2"},
+      {"predicate":{"custom_model_data":1016},"model":"item/stick2"},
+      {"predicate":{"custom_model_data":1017},"model":"item/stick2"},
+      {"predicate":{"custom_model_data":1018},"model":"item/stick2"},
+      {"predicate":{"custom_model_data":1019},"model":"item/stick2"}
+   ]
 }
