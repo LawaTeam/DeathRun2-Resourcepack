@@ -1,0 +1,28 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+    "layer0": "minecraft:item/qiantong"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 0, -2],
+			"translation": [0, 3.75, 1.5],
+			"scale": [0.51, 0.49, 0.47]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 0, -49],
+			"translation": [0, -2.75, 2.25],
+			"scale": [0, 0, 0]
+		},
+		"firstperson_righthand": {
+			"rotation": [-4, -7, 0],
+			"translation": [11.5, 2, -9.25]
+		},
+		"firstperson_lefthand": {
+			"translation": [80, 0, 0]
+		},
+		"head": {
+			"translation": [0, 13.75, 0]
+		}
+	}
+}
